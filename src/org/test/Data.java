@@ -6,6 +6,7 @@ public class Data {
 		System.out.println("Selenium");
 		System.out.println("java");
 		System.out.println("Manual");
+		System.out.println("Python");
 	}
 
 }
